@@ -26,6 +26,7 @@ public class Exerc4_1 {
                 incricaoMaisBaixa = numIncricao;
             }
         }
-        System.out.println("Atleta mais alto: " + );
+        System.out.println("Atleta mais alto: " + alturaMaisAlta + " e sua incrição é: " + incricaoMaisAlta);
+        System.out.println("Atleta mais baixo: " + alturaMaisBaixa + " e sua inscrição é: " + incricaoMaisBaixa);
     }
 }
